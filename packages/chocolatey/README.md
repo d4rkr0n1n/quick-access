@@ -11,3 +11,9 @@ choco install 7zip git starship python openjdk openjdk17 -y
 ```powershell
 choco install terraform vagrant -y
 ```
+
+## All
+
+```powershell
+choco install 7zip git starship python openjdk openjdk17 terraform vagrant -y
+```
