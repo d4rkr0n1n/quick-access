@@ -6,4 +6,5 @@
 
 ## Packages
 
-- [Chocolatey](https://github.com/d4rkr0n1n/quick-access/tree/main/packages/chocolatey#readme)
+- [Windows](https://github.com/d4rkr0n1n/quick-access/tree/main/packages/chocolatey#readme)
+- [Linux](https://github.com/d4rkr0n1n/quick-access/tree/main/packages/linux#apt-get-packages)
